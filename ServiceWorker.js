@@ -1,9 +1,9 @@
 const cacheName = "TribalLink PTY LTD-Djaa-1.2.2";
 const contentToCache = [
-    "Build/a1b8a8bd4d9f34e2c3df5e153c20f830.loader.js",
+    "Build/4cccdbf7f6f97aaaac5dfece2e696398.loader.js",
     "Build/f21aa2d52ef6fbfdf150e2a17eb14c8a.framework.js.unityweb",
-    "Build/9b46b319da3935945a0a7fd638632955.data.unityweb",
-    "Build/5d1a75c5bde9cbe76ef1f22dc74cd0b8.wasm.unityweb",
+    "Build/2a835d42261ba4c6e54e56a3d696a5b3.data.unityweb",
+    "Build/cd0be549497c420d4c0ee2fb35a31355.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
